@@ -1,7 +1,5 @@
 # Indore-Institute
 
-# Indore Institute
-
 # [👨🏻‍💻 Indore Institute IIST CSE Department 🚀](https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/)
 
 🔗 Implementation of Language and versions
