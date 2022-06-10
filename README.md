@@ -1,6 +1,6 @@
 # Indore-Institute
 
-# [👨🏻‍🎓 Indore Institute IIST CSE Department 🚀](https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/)
+# [👨🏻‍🎓 Indore Institute 🚀](https://hemant-mulchandani.github.io/Indore-Institute/)
 
 🔗 Implementation of Language and versions
 1️⃣ HTML5
@@ -24,10 +24,10 @@ Our hard work paid off and our team won Designo with flying 🌈colors securing 
 
   📌 Visit to Live Interact : 🔗
 
-  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
+  https://Hemant-Mulchandani.github.io/Indore-Institute/
   
-  ![Mail Capture](Media/Indore-Institute-IIST-CSE-Department-Screenshot.png)
+  ![Indore-Institute-Screenshot](Media/Indore-Institute-Screenshot.png)
 
 # 📌 Visit to Live Interact : 🔗 
 
-  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/ 
+  https://Hemant-Mulchandani.github.io/Indore-Institute/ 
