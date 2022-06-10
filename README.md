@@ -1,6 +1,6 @@
 # Indore-Institute
 
-# Indore-Institute-IIST-CSE-Department
+# Indore Institute
 
 # [👨🏻‍💻 Indore Institute IIST CSE Department 🚀](https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/)
 
