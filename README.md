@@ -1,5 +1,3 @@
-# Indore-Institute
-
 # [👨🏻‍🎓 Indore Institute 🚀](https://hemant-mulchandani.github.io/Indore-Institute/)
 
 🔗 Implementation of Language and versions
