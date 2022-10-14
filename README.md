@@ -1,18 +1,18 @@
 # [👨🏻‍🎓 Indore Institute 🚀](https://hemant-mulchandani.github.io/Indore-Institute/)
 
-🔗 Implementation of Language and versions
+### 🔗 Implementation of Language and versions
 1️⃣ HTML5
 2️⃣ CSS3
 3️⃣ Javascript-ES6
 
-🛠️ Plug-in Details
+### 🛠️ Plug-in Details
 1️⃣ JQuery
 2️⃣ Owl Carousel
-3️⃣ Bootstrap 5
+3️⃣ Bootstrap 5\
 4️⃣ Swiper
 5️⃣ Vanilla JS
 
-🧩 CSS or CSS framework details
+### 🧩 CSS or CSS framework details
 1️⃣ CSS3
 2️⃣ Bootstrap Framework
 
