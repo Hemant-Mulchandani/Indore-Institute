@@ -24,8 +24,12 @@ Our hard work paid off and our team won Designo with flying 🌈colors securing 
 
   https://Hemant-Mulchandani.github.io/Indore-Institute/
   
-  ![Indore-Institute-Screenshot](Media/Indore-Institute-Screenshot.png)
+  ![Indore-Institute-Screenshot](https://user-images.githubusercontent.com/89768465/195809838-ca4a5779-ccc2-405e-b164-02d78269892d.png)
 
+  <!---
+  ![Indore-Institute-Screenshot](Media/Indore-Institute-Screenshot.png)
+  -->
+  
 # 📌 Visit to Live Interact : 🔗 
 
   https://Hemant-Mulchandani.github.io/Indore-Institute/ 
