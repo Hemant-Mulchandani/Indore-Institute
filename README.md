@@ -20,7 +20,7 @@
 
 Our hard work paid off and our team won Designo with flying 🌈colors securing the 🥇 first position among all the teams that participated along with a cash prize of 💰 Rs. 9000.
 
-  📌 Visit to Live Interact : 🔗
+ ### 📌 Visit to Live Interact : 🔗
 
   https://Hemant-Mulchandani.github.io/Indore-Institute/
   
